@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1589228169 source:/data1/unisa1/COS1512 - Intro to Programming II/programs/snake/main.cpp
+	"snake.h"
+
+1589228260 /data1/unisa1/COS1512 - Intro to Programming II/programs/snake/snake.h
+	<termios.h>
+	<unistd.h>
+	<stdio.h>
+
+1589228380 source:/data1/unisa1/COS1512 - Intro to Programming II/programs/snake/snake.cpp
+	"snake.h"
+	<iostream>
+	<cstdlib>
+	<sys/select.h>
+
+1589228554 source:/data1/coding1/CPP/snake-game/main.cpp
+	"snake.h"
+
+1589228260 /data1/coding1/CPP/snake-game/snake.h
+	<termios.h>
+	<unistd.h>
+	<stdio.h>
+
+1589228380 source:/data1/coding1/CPP/snake-game/snake.cpp
+	"snake.h"
+	<iostream>
+	<cstdlib>
+	<sys/select.h>
+
